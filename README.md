@@ -38,8 +38,6 @@ I make cool stuff.
   &nbsp;
   <img src="https://img.icons8.com/color/48/numpy.png" width="36" height="36"/>
   &nbsp;
-  <img src="https://img.icons8.com/color/48/scikit-learn.png" width="36" height="36"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/XGBoost-189fdd?style=flat-square&logo=xgboost&logoColor=white"/>
 </p>
 
