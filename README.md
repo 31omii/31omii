@@ -37,7 +37,7 @@ This is `omiiシ`. I make cool stuff.
   &nbsp;
   <img src="https://img.icons8.com/color/48/numpy.png" width="36" height="36"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=sklearn" width="36" height="36"/>
   &nbsp;
   <img src="https://img.shields.io/badge/XGBoost-189fdd?style=flat-square&logo=xgboost&logoColor=white"/>
 </p>
@@ -46,7 +46,7 @@ This is `omiiシ`. I make cool stuff.
 
 **`Robotics & Embedded`**
 <p>
-  <img src="https://skillicons.dev/icons?i=ros" />
+  <img src="https://skillicons.dev/icons?i=ros" width="36" height="36"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Embedded_Systems-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   &nbsp;
