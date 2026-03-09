@@ -1,4 +1,4 @@
-This is `omiiシ`. I make cool stuff.
+This is omiiシ. I make cool stuff.
 
 <br>
 
@@ -18,7 +18,7 @@ This is `omiiシ`. I make cool stuff.
   <img src="https://media1.tenor.com/m/R6zEIJQaUh4AAAAd/we-bare-bears-ice-bear.gif" width="250"/>
 </p>
 
-# `Skills`
+# Skills
 
 **`Programming Languages`**
 <p>
@@ -76,3 +76,27 @@ This is `omiiシ`. I make cool stuff.
   &nbsp;
   <img src="https://img.icons8.com/color/48/git.png" width="36" height="36"/>
 </p>
+
+<br>
+
+**`other`**
+<p>
+  <img src="https://skillicons.dev/icons?i=github" width="36" height="36"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ae" width="36" height="36"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=blender" width="36" height="36"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="36" height="36"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=matlab" width="36" height="36"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=notion" width="36" height="36"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ps" width="36" height="36"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=pr" width="36" height="36"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36"/>
+  &nbsp;
+<p>
