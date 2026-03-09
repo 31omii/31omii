@@ -18,9 +18,9 @@
   <img src="https://media1.tenor.com/m/R6zEIJQaUh4AAAAd/we-bare-bears-ice-bear.gif" width="250"/>
 </p>
 
-# Skills
+# `Skills`
 
-**Programming Languages**
+**`Programming Languages`**
 <p>
   <img src="https://img.icons8.com/color/48/python.png" width="36" height="36"/>
   &nbsp;
@@ -31,7 +31,7 @@
 
 <br>
 
-**Data & ML Libraries**
+**`Data & ML Libraries`**
 <p>
   <img src="https://img.icons8.com/color/48/pandas.png" width="36" height="36"/>
   &nbsp;
@@ -42,7 +42,7 @@
 
 <br>
 
-**Robotics & Embedded**
+**`Robotics & Embedded`**
 <p>
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
   &nbsp;
@@ -55,7 +55,7 @@
 
 <br>
 
-**Computer Vision**
+**`Computer Vision`**
 <p>
   <img src="https://img.icons8.com/color/48/opencv.png" width="36" height="36"/>
   &nbsp;
@@ -66,7 +66,7 @@
 
 <br>
 
-**Data & Infrastructure**
+**`Data & Infrastructure`**
 <p>
   <img src="https://img.shields.io/badge/APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   &nbsp;
