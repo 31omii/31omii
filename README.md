@@ -1,4 +1,4 @@
-`This is omiiシ. I make cool stuff.`
+This is `omiiシ`. I make cool stuff.
 
 <br>
 
