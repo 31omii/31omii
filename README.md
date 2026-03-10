@@ -18,6 +18,8 @@ This is omiiシ. I make cool stuff.
   <img src="https://media1.tenor.com/m/R6zEIJQaUh4AAAAd/we-bare-bears-ice-bear.gif" width="250"/>
 </p>
 
+<br>
+
 # Skills
 
 **`Programming Languages`**
