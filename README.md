@@ -1,4 +1,4 @@
-This is omiiシ. I make cool stuff.
+Seize the day, boys.
 
 <br>
 
