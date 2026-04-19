@@ -1,5 +1,4 @@
 trying.
-
 <!-- <br> -->
 
 <!-- <p align="left">
@@ -12,13 +11,9 @@ trying.
   </a>
 </p> -->
 
-<br>
-
 <p align="center">
   <img src="https://media1.tenor.com/m/R6zEIJQaUh4AAAAd/we-bare-bears-ice-bear.gif" width="250"/>
 </p>
-
-<br>
 
 <!-- # Skills
 
