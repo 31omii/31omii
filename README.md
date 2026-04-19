@@ -2,7 +2,7 @@ Seize the day, boys.
 
 <br>
 
-<p align="left">
+<!-- <p align="left">
   <a href="(https://x.com/31omii)" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/twitterx.png" width="32" height="32" style="border:none;"/>
   </a>
@@ -10,7 +10,7 @@ Seize the day, boys.
   <a href="(https://www.linkedin.com/in/31sarthak/)" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="32" height="32" style="border:none;"/>
   </a>
-</p>
+</p> -->
 
 <br>
 
@@ -20,7 +20,7 @@ Seize the day, boys.
 
 <br>
 
-# Skills
+<!-- # Skills
 
 **`Programming Languages`**
 <p>
@@ -107,4 +107,4 @@ Seize the day, boys.
   &nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36"/>
   &nbsp;
-<p>
+<p> -->
